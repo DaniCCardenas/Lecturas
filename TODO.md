@@ -8,3 +8,6 @@ Repositorio para guardar futuras lecturas y tutoriales a realizar
 
 ## DevOps
 * https://www.youtube.com/watch?v=5oDMYvb0gFM -- Running your First Docker Container in Azure
+
+##Programación
+https://dev.azure.com/jordisastre/_git/Pipeline%20Example
